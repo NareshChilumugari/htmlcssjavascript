@@ -1,0 +1,30 @@
+margin:-10px,5px
+10px for top and bottom in box
+5px for left and right in box
+    for one pixel   all the corners with 10pixel
+    margin 10px(top) 3px(right) 5px(bottom) ....(3px left)
+
+    padding also same we can use
+
+
+    float: converting block level into inline element
+     1) float:left
+     2)float:right
+     3)float:none      
+
+span is inline element struture we need adjust
+
+
+
+     font awesome this is font icons (searchicon oicons..etc.,)
+     font means text(it is icon)
+     awesome this website
+
+     position:- relative.static,abosulate,fixed this are properties in position css
+         
+             static by default it is browser(browser one css stylesheet ie.,useragenet stylesheet) static(top,right,bottom,left)
+             the static [position is the default in browser css
+             
+             Relative:-it start only particular element block is know as relative position
+             Absoulate: it not working with that particular block it start from parent 
+             Fixed: it will not move that is fixed in that particular area it is also have 4properties (top,right,bottom,left)

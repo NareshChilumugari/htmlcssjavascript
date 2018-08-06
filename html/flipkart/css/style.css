@@ -1,0 +1,113 @@
+body{
+margin: 0,;
+
+padding: 0;
+}
+#header_block_parent
+{
+    background: #2874f0;
+}
+#header_block{
+    background: #2874f0;
+    height: 41px;
+    width: 80%;
+    margin: 0 auto;
+}
+#logo img {
+    width: 110px;
+}
+#logo
+{
+    width: 15%;
+    float: left;
+    margin: 5px 5px 0 0px; 
+}
+#search
+{
+    width: 50%;
+    float: left;
+}
+#loginblock
+{
+    width: 30%;
+    float: right;
+    text-align: right;
+    margin: 14px,0;
+    color: white;
+}
+.shopping-cart
+{
+    position: relative;
+    bottom:25px;
+}
+#search input
+{
+    padding: 0 16px;
+    border-radius: 2px 0 0 2px;
+    border: 0 none;
+    outline: 0 none;
+    font-size: 14px;
+    height: 24px;
+    width: 85%;
+    margin: 5px;
+    font-size: 15px;
+    color: red;
+}
+.search_icon
+{
+    position: relative;
+    left: -35px;
+    top: 0;
+    }
+    .search_icon i{
+        color: black;
+        font-size: 12px;
+    }
+
+/*today html*/
+    
+   
+    .test{
+        border: 1px solid red;
+        width: 31%;
+        float: left;
+        margin:14px;
+        text-align: center;
+        padding: 30px 0px;
+        box-shadow: inset 10px 10px 10px 10px gray;
+        border-radius: 10px;
+        text-shadow: 2px 2px 2px blue;
+       text-decoration: overline;
+        
+        
+    }
+    
+    /*.test:hover
+    {
+        background: black;
+        
+    }*/
+
+    
+    .test1
+    {
+        
+        background: skyblue;
+        /* display: none; */
+        /* visibility:hidden; */
+        
+    }
+    .test1:hover {
+        display: block;
+
+    }
+    /*.test2
+    {
+        background: lightgreen;
+        
+    }
+    .test3
+    {
+        background: lightpink;
+       
+    }*/
